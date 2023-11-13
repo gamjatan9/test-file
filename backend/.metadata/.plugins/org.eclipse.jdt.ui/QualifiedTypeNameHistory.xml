@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="lombok.Builder"/>
+<fullyQualifiedTypeName name="lombok.RequiredArgsConstructor"/>
+<fullyQualifiedTypeName name="lombok.NonNull"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+<fullyQualifiedTypeName name="com.example.demo.persistence.WineRepositoryT"/>
+<fullyQualifiedTypeName name="org.springframework.security.core.annotation.AuthenticationPrincipal"/>
+</qualifiedTypeNameHistroy>
